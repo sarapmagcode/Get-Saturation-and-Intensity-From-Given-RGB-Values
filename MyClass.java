@@ -1,3 +1,9 @@
+/*
+
+    author: Mark Jason T. Galang
+
+*/
+
 public class MyClass {
     public static void main(String args[]) {
         Color[][] mat = new Color[][] {
